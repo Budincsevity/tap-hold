@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tap &amp; Hold</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_leaderboard">Pointless Champions</string>
+    <string name="points_text">You held it for\n51 seconds</string>
+    <string name="share_button_text">SHARE YOUR\nAWESOMENESS</string>
+</resources>
